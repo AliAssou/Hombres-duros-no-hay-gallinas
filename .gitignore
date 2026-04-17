@@ -1,1 +1,4 @@
-Hombres-duros-no-hay-gallinas/
+myvenv/
+db.sqlite3
+__pycache__/
+*.pyc
